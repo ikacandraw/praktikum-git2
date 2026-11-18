@@ -5,6 +5,7 @@ import "fmt"
 func main() {
 	fmt.Println("------------PROGRAM PARKIR-----------------")
 	fmt.Println("Parkir Undiknas")
+	fmt.Println("Jl. Bedugul")
 	jam := 0
 	var totaljam, total int
 
